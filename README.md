@@ -1,2 +1,2 @@
-# statistik
+# Statistik
  Statistik in Java
